@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 mazlusek
 ========================
 
@@ -63,3 +64,8 @@ If you want to debug the source code or look at the Javadocs of any library in t
         mvn dependency:sources
         mvn dependency:resolve -Dclassifier=javadoc
 
+=======
+The OpenShift `jbossas` cartridge documentation can be found at:
+
+http://openshift.github.io/documentation/oo_cartridge_guide.html#jbossas
+>>>>>>> f523370f335dce5e6ff2fce5dc8c911cbc1a514c
